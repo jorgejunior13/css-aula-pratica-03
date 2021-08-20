@@ -1,0 +1,24 @@
+
+body{
+    background-color:rgb(240, 240, 199);
+}
+
+
+.titulo{
+    font-variant: small-caps;
+    color: orange;
+} 
+
+.ingredientes{
+    font-style: italic;
+}
+
+.preparo{
+    font-style: italic;
+}
+
+.fi{
+     width: 400px;
+    
+
+}
